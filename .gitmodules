@@ -1,0 +1,20 @@
+[submodule "poky"]
+	path = poky
+	url = git://git.yoctoproject.org/poky.git
+	branch = gatesgarth
+[submodule "layers/meta-openembedded"]
+	path = layers/meta-openembedded
+	url = git://git.openembedded.org/meta-openembedded
+	branch = gatesgarth
+[submodule "layers/meta-raspberrypi"]
+	path = layers/meta-raspberrypi
+	url = git://git.yoctoproject.org/meta-raspberrypi
+	branch = gatesgarth
+[submodule "layers/meta-3dprinter"]
+	path = layers/meta-3dprinter
+	url = https://github.com/dev-0x7C6/meta-3dprinter.git
+	branch = master
+[submodule "layers/meta-python2"]
+	path = layers/meta-python2
+	url = https://git.openembedded.org/meta-python2
+	branch = gatesgarth
