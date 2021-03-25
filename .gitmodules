@@ -12,7 +12,7 @@
 	branch = gatesgarth
 [submodule "layers/meta-3dprinter"]
 	path = layers/meta-3dprinter
-	url = https://github.com/dev-0x7C6/meta-3dprinter.git
+	url = https://github.com/kpochwala/meta-3dprinter.git
 	branch = master
 [submodule "layers/meta-python2"]
 	path = layers/meta-python2
